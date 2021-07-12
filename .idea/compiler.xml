@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo_domain" />
+        <module name="Demo_Application" />
+        <module name="demo_types" />
+        <module name="demo_persistence" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DDD_Demo" target="1.5" />
+      <module name="Demo_Application" target="1.5" />
+      <module name="demo_domain" target="1.5" />
+      <module name="demo_persistence" target="1.5" />
+      <module name="demo_types" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

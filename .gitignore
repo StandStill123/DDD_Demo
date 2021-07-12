@@ -1,0 +1,49 @@
+# maven ignore
+target/
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# Gradle files
+.gradle/
+build/
+*/build/
+gradlew
+gradlew.bat
+
+#Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+*.xml
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.java~
+*.properties~
+*.xml~
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# Generated files
+*/bin/
+*/gen/
+*/out/
+
+#other ignore
+**/.flattened-pom.xml
