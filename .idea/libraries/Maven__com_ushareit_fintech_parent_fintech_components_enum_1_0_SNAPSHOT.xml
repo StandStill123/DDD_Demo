@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.ushareit.fintech.parent:fintech-components-enum:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210624.022238-9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210906.063312-23.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210624.022238-9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210906.063312-23-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210624.022238-9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-components-enum/1.0-SNAPSHOT/fintech-components-enum-1.0-20210906.063312-23-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

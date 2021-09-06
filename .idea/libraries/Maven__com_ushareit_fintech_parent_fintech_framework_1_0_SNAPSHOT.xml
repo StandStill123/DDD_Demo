@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.ushareit.fintech.parent:fintech-framework:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210624.022248-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210803.070106-9.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210624.022248-7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210803.070106-9-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210624.022248-7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-framework/1.0-SNAPSHOT/fintech-framework-1.0-20210803.070106-9-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

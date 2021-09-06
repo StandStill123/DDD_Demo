@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.ushareit.fintech.parent:fintech-common:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210702.055751-13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210902.080636-21.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210702.055751-13-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210902.080636-21-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210702.055751-13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../maven/apache-maven-3.6.3-bin/apache-maven-3.6.3/com/ushareit/fintech/parent/fintech-common/1.0-SNAPSHOT/fintech-common-1.0-20210902.080636-21-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DDD_Demo.iml" filepath="$PROJECT_DIR$/DDD_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_application/Demo_Application.iml" filepath="$PROJECT_DIR$/demo_application/Demo_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_Infrastructure/component-dao/component-dao.iml" filepath="$PROJECT_DIR$/demo_Infrastructure/component-dao/component-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_Infrastructure/demo_Infrastructure.iml" filepath="$PROJECT_DIR$/demo_Infrastructure/demo_Infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_domain/demo_domain.iml" filepath="$PROJECT_DIR$/demo_domain/demo_domain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo_persistence/demo_persistence.iml" filepath="$PROJECT_DIR$/demo_persistence/demo_persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_external/demo_external.iml" filepath="$PROJECT_DIR$/demo_external/demo_external.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_starter/demo_starter.iml" filepath="$PROJECT_DIR$/demo_starter/demo_starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_types/demo_types.iml" filepath="$PROJECT_DIR$/demo_types/demo_types.iml" />
     </modules>
   </component>

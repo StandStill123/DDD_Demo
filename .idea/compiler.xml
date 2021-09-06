@@ -2,21 +2,31 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo_domain" />
-        <module name="Demo_Application" />
         <module name="demo_types" />
-        <module name="demo_persistence" />
+        <module name="component-dao" />
+        <module name="demo_domain" />
+        <module name="demo_Infrastructure" />
+        <module name="demo_starter" />
+        <module name="Demo_Application" />
+        <module name="demo_external" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cashier-core-infrastructure" target="1.5" />
+      <module name="component-dao" target="1.5" />
+      <module name="component-scenario-share" target="1.5" />
       <module name="DDD_Demo" target="1.5" />
       <module name="Demo_Application" target="1.5" />
-      <module name="demo_domain" target="1.5" />
-      <module name="demo_persistence" target="1.5" />
+      <module name="demo_domain" target="8" />
+      <module name="demo_external" target="1.5" />
+      <module name="demo_Infrastructure" target="1.5" />
+      <module name="demo_scenario_share" target="1.5" />
+      <module name="demo_starter" target="1.5" />
       <module name="demo_types" target="1.5" />
     </bytecodeTargetLevel>
   </component>
